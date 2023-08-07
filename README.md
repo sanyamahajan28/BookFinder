@@ -10,3 +10,5 @@ Welcome to BookFinder, a sophisticated book recommender system built using a mem
 2. Implements memory-based approach for efficient and accurate recommendations.
 3. Explores user-item interactions to create personalized book suggestions.
 4. Provides insightful documentation and code structure for easy understanding.
+
+Feel free to explore, contribute, and adapt BookFinder to your preferences or incorporate it into your own projects. Let's make book recommendations smarter and more engaging together! 📖📚
